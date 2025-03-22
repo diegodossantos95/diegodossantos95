@@ -5,17 +5,17 @@
 
 ---
 
-### Let’s Connect
-
-- 💬 Ask me about **iOS development**, **Swift**, **Cloud architecture**, or **UX**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diegodsantos), [Instagram](https://www.instagram.com/diegodossantos/), [YouTube](https://www.youtube.com/@eusoudiegos)
-
----
-
 ### Fun Fact
 
 - ⚡ Finalist in multiple hackathons and innovation awards, always eager to dive into new tech challenges and collaborative projects
 - 🏎️ I enjoy traveling to nature-rich destinations, capturing moments with photography, and driving my racing car on circuits
+
+---
+
+### Let’s Connect
+
+- 💬 Ask me about **software development**, **travels**, or **cars**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diegodsantos), [Instagram](https://www.instagram.com/diegodossantos/), [YouTube](https://www.youtube.com/@eusoudiegos)
 
 
 <!--
