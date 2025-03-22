@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Diego!
 
 - 🍏 **Senior iOS Software Engineer** from Brazil with 10+ years of experience  
-- 🔭 Currently working at [Lumenalta (formerly Clevertech)](https://www.lumenalta.com/), focusing on an iOS platform used by 1.6M+ daily active users   
+- 🔭 Currently working at [Lumenalta (formerly Clevertech)](https://www.lumenalta.com/) remotely, focusing on an iOS platform used by 1.6M+ daily active users   
 
 ---
 
