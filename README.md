@@ -1,4 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm Diego!
+
+- 🍏 **Senior iOS Software Engineer** from Brazil with 10+ years of experience  
+- 🔭 Currently working at [Lumenalta (formerly Clevertech)](https://www.lumenalta.com/), focusing on an iOS platform used by 1.6M+ daily active users   
+
+---
+
+### Let’s Connect
+
+- 💬 Ask me about **iOS development**, **Swift**, **Cloud architecture**, or **UX**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diegodsantos), [Instagram](https://www.instagram.com/diegodossantos/), [YouTube](https://www.youtube.com/@eusoudiegos)
+
+---
+
+### Fun Fact
+
+- ⚡ Finalist in multiple hackathons and innovation awards, always eager to dive into new tech challenges and collaborative projects
+- 🏎️ I enjoy traveling to nature-rich destinations, capturing moments with photography, and driving my racing car on circuits
+
 
 <!--
 **diegodossantos95/diegodossantos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
