@@ -8,7 +8,7 @@
 ### Fun Fact
 
 - ⚡ Finalist in multiple hackathons and innovation awards, always eager to dive into new tech challenges and collaborative projects
-- 🏎️ I enjoy traveling to nature-rich destinations, capturing moments with photography, and driving my racing car on circuits
+- 🏎️  I enjoy traveling to nature-rich destinations, capturing moments with photography, and driving my racing car on circuits
 
 ---
 
